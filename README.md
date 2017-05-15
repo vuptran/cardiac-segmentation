@@ -34,6 +34,7 @@ The code is tested on Ubuntu 14.04 with the following components:
 
 * Python 2.7
 * Keras 2.0.2 using TensorFlow GPU 1.0.1 backend
+* CUDA 8.0 with CuDNN 5.1
 * OpenCV 3.1
 * h5py 2.7
 * NumPy 1.11
